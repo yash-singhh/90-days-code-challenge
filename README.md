@@ -118,6 +118,8 @@ Easy
  https://goo.gl/tSnDU7
  https://www.hackerrank.com/challenges/sum-vs-xor/problem
  http://www.spoj.com/problems/ADAJOBS/
+
+ 
 Medium
  http://www.spoj.com/problems/RENT/
  https://www.codechef.com/DCL1501/problems/DCL2015E/ [2D BIT]
@@ -191,6 +193,8 @@ Medium
  https://www.hackerrank.com/challenges/bike-racers/problem
  https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem
  http://codeforces.com/problemset/problem/761/D
+
+ 
 Hard
  https://www.hackerrank.com/challenges/hamming-distance/problem
  http://www.spoj.com/problems/BRDGHRD/
