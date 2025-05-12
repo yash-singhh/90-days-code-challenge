@@ -122,111 +122,115 @@ http://www.spoj.com/problems/ADAJOBS/
 
  
 Medium
- http://www.spoj.com/problems/RENT/
- https://www.codechef.com/DCL1501/problems/DCL2015E/ [2D BIT]
- http://codeforces.com/problemset/problem/774/D
- http://www.spoj.com/problems/KNAPSACK/
- http://www.spoj.com/problems/GCPC11J/
- https://goo.gl/yLirva
- http://codeforces.com/problemset/problem/777/B
- https://www.hackerrank.com/challenges/largest-permutation/problem
- http://www.spoj.com/problems/CODESPTB/
- https://www.codechef.com/problems/TRAL
- http://www.spoj.com/problems/SDITSAVL/ [AVL tree]
- http://codeforces.com/problemset/problem/439/D
- http://www.spoj.com/problems/PPATH/
- http://www.spoj.com/problems/DISUBSTR/ [suffix tree or suffix array]
- https://goo.gl/jNsdWQ
- https://www.hackerrank.com/challenges/morgan-and-a-string/problem
- https://goo.gl/1tU579 [sqrt decompostion]
- http://www.spoj.com/problems/PT07Z/
- http://www.spoj.com/problems/ADABRANC/
- https://www.hackerrank.com/challenges/richie-rich/problem
- https://www.hackerrank.com/challenges/pylons/problem
- http://www.spoj.com/problems/MAKETREE/
- https://www.codechef.com/problems/RRDAG
- http://www.spoj.com/problems/BUSYMAN/
- http://codeforces.com/problemset/problem/579/A
- http://codeforces.com/problemset/problem/106/E
- http://www.spoj.com/problems/PARTIT/
- http://codeforces.com/problemset/problem/431/E
- http://codeforces.com/problemset/problem/898/C
- https://www.codechef.com/problems/WTHINGS
- http://www.spoj.com/problems/FACEFRND/
- https://goo.gl/DWyiui [persistent segTree]
- https://goo.gl/5MwpVj [trie]
- http://www.spoj.com/problems/LABYR1/
- https://www.codechef.com/problems/CROFT
- https://www.hackerrank.com/challenges/aorb/problem
- https://www.hackerrank.com/challenges/similar-strings/problem
- http://codeforces.com/problemset/problem/633/C
- https://goo.gl/GcBqqy
- https://goo.gl/poJyjN
- http://www.spoj.com/problems/DQUERY/
- http://codeforces.com/problemset/problem/777/D
- http://www.spoj.com/problems/MIXTURES/
- https://www.hackerrank.com/challenges/whats-next/problem
- http://www.spoj.com/problems/SBANK/
- https://goo.gl/FxvqiP
- https://goo.gl/s1gkhH
- http://www.spoj.com/problems/RMQSQ/ [sparse table]
- http://codeforces.com/problemset/problem/596/D
- https://goo.gl/oXTucZ
- http://www.spoj.com/problems/INVCNT/
- http://www.spoj.com/problems/GSS3/
- http://codeforces.com/problemset/problem/340/D
- http://www.spoj.com/problems/RMID2/ [heaps]
- http://www.spoj.com/problems/DCEPC206/
- http://www.spoj.com/problems/BRIDGE/
- http://www.spoj.com/problems/KGSS/
- https://www.hackerrank.com/challenges/counter-game/problem
- https://www.hackerrank.com/challenges/and-product/problem
- https://goo.gl/gngBzX
- http://www.spoj.com/problems/BISHOPS/
- http://www.spoj.com/problems/ADAFRIEN/
- http://www.spoj.com/problems/POTHOLE/
- https://www.hackerrank.com/challenges/task-scheduling/problem
- http://www.spoj.com/problems/MKTHNUM/
- http://codeforces.com/contest/510/problem/C
- https://www.hackerrank.com/challenges/the-great-xor/problem
- http://www.spoj.com/problems/BACKUP/ [heaps]
- https://goo.gl/5ztFts
- https://www.hackerrank.com/challenges/bike-racers/problem
- https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem
- http://codeforces.com/problemset/problem/761/D
+
+ http://www.spoj.com/problems/RENT/  
+https://www.codechef.com/DCL1501/problems/DCL2015E/  
+http://codeforces.com/problemset/problem/774/D  
+http://www.spoj.com/problems/KNAPSACK/  
+http://www.spoj.com/problems/GCPC11J/  
+https://goo.gl/yLirva  
+http://codeforces.com/problemset/problem/777/B  
+https://www.hackerrank.com/challenges/largest-permutation/problem  
+http://www.spoj.com/problems/CODESPTB/  
+https://www.codechef.com/problems/TRAL  
+http://www.spoj.com/problems/SDITSAVL/  
+http://codeforces.com/problemset/problem/439/D  
+http://www.spoj.com/problems/PPATH/  
+http://www.spoj.com/problems/DISUBSTR/  
+https://goo.gl/jNsdWQ  
+https://www.hackerrank.com/challenges/morgan-and-a-string/problem  
+https://goo.gl/1tU579  
+http://www.spoj.com/problems/PT07Z/  
+http://www.spoj.com/problems/ADABRANC/  
+https://www.hackerrank.com/challenges/richie-rich/problem  
+https://www.hackerrank.com/challenges/pylons/problem  
+http://www.spoj.com/problems/MAKETREE/  
+https://www.codechef.com/problems/RRDAG  
+http://www.spoj.com/problems/BUSYMAN/  
+http://codeforces.com/problemset/problem/579/A  
+http://codeforces.com/problemset/problem/106/E  
+http://www.spoj.com/problems/PARTIT/  
+http://codeforces.com/problemset/problem/431/E  
+http://codeforces.com/problemset/problem/898/C  
+https://www.codechef.com/problems/WTHINGS  
+http://www.spoj.com/problems/FACEFRND/  
+https://goo.gl/DWyiui  
+https://goo.gl/5MwpVj  
+http://www.spoj.com/problems/LABYR1/  
+https://www.codechef.com/problems/CROFT  
+https://www.hackerrank.com/challenges/aorb/problem  
+https://www.hackerrank.com/challenges/similar-strings/problem  
+http://codeforces.com/problemset/problem/633/C  
+https://goo.gl/GcBqqy  
+https://goo.gl/poJyjN  
+http://www.spoj.com/problems/DQUERY/  
+http://codeforces.com/problemset/problem/777/D  
+http://www.spoj.com/problems/MIXTURES/  
+https://www.hackerrank.com/challenges/whats-next/problem  
+http://www.spoj.com/problems/SBANK/  
+https://goo.gl/FxvqiP  
+https://goo.gl/s1gkhH  
+http://www.spoj.com/problems/RMQSQ/  
+http://codeforces.com/problemset/problem/596/D  
+https://goo.gl/oXTucZ  
+http://www.spoj.com/problems/INVCNT/  
+http://www.spoj.com/problems/GSS3/  
+http://codeforces.com/problemset/problem/340/D  
+http://www.spoj.com/problems/RMID2/  
+http://www.spoj.com/problems/DCEPC206/  
+http://www.spoj.com/problems/BRIDGE/  
+http://www.spoj.com/problems/KGSS/  
+https://www.hackerrank.com/challenges/counter-game/problem  
+https://www.hackerrank.com/challenges/and-product/problem  
+https://goo.gl/gngBzX  
+http://www.spoj.com/problems/BISHOPS/  
+http://www.spoj.com/problems/ADAFRIEN/  
+http://www.spoj.com/problems/POTHOLE/  
+https://www.hackerrank.com/challenges/task-scheduling/problem  
+http://www.spoj.com/problems/MKTHNUM/  
+http://codeforces.com/contest/510/problem/C  
+https://www.hackerrank.com/challenges/the-great-xor/problem  
+http://www.spoj.com/problems/BACKUP/  
+https://goo.gl/5ztFts  
+https://www.hackerrank.com/challenges/bike-racers/problem  
+https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem  
+http://codeforces.com/problemset/problem/761/D  
+
 
  
 Hard
- https://www.hackerrank.com/challenges/hamming-distance/problem
- http://www.spoj.com/problems/BRDGHRD/
- http://www.spoj.com/problems/AGGRCOW/
- http://www.spoj.com/problems/SUBXOR/ [trie]
- http://codeforces.com/contest/538/problem/F
- https://www.hackerrank.com/challenges/board-cutting/problem
- http://codeforces.com/problemset/problem/653/F [persistent segTree]
- https://www.hackerrank.com/challenges/string-transmission/problem
- http://codeforces.com/contest/506/problem/D [sparse table]
- http://codeforces.com/problemset/problem/903/E
- https://www.codechef.com/problems/MONOPLOY [HLD]
- http://www.spoj.com/problems/GSS7/ [HLD]
- http://www.spoj.com/problems/KATHTHI/
- http://codeforces.com/problemset/problem/780/F
- https://www.hackerrank.com/challenges/save-humanity/problem
- https://goo.gl/MvotAY
- http://codeforces.com/problemset/problem/813/E [persistent segTree]
- http://www.spoj.com/problems/ASSIGN/
- https://www.codechef.com/problems/CL16BF
- http://www.spoj.com/problems/SKYLINE2/
- http://www.spoj.com/problems/RPLA/
- https://goo.gl/HgGzcJ
- http://www.spoj.com/problems/LONGCS/ [suffix tree or suffix array]
- https://www.hackerrank.com/challenges/stonegame/problem
- http://codeforces.com/problemset/problem/678/E
- http://www.spoj.com/problems/SSORT/
- http://www.spoj.com/problems/INUMBER/
- https://goo.gl/SVvLEA
- https://www.hackerrank.com/challenges/2s-complement/problem
- https://goo.gl/nqXngJ
- https://www.hackerrank.com/challenges/iterate-it/problem
- https://www.codechef.com/problems/DGCD
- http://www.spoj.com/problems/ANARC05H/
+
+ https://www.hackerrank.com/challenges/hamming-distance/problem  
+http://www.spoj.com/problems/BRDGHRD/  
+http://www.spoj.com/problems/AGGRCOW/  
+http://www.spoj.com/problems/SUBXOR/  
+http://codeforces.com/contest/538/problem/F  
+https://www.hackerrank.com/challenges/board-cutting/problem  
+http://codeforces.com/problemset/problem/653/F  
+https://www.hackerrank.com/challenges/string-transmission/problem  
+http://codeforces.com/contest/506/problem/D  
+http://codeforces.com/problemset/problem/903/E  
+https://www.codechef.com/problems/MONOPLOY  
+http://www.spoj.com/problems/GSS7/  
+http://www.spoj.com/problems/KATHTHI/  
+http://codeforces.com/problemset/problem/780/F  
+https://www.hackerrank.com/challenges/save-humanity/problem  
+https://goo.gl/MvotAY  
+http://codeforces.com/problemset/problem/813/E  
+http://www.spoj.com/problems/ASSIGN/  
+https://www.codechef.com/problems/CL16BF  
+http://www.spoj.com/problems/SKYLINE2/  
+http://www.spoj.com/problems/RPLA/  
+https://goo.gl/HgGzcJ  
+http://www.spoj.com/problems/LONGCS/  
+https://www.hackerrank.com/challenges/stonegame/problem  
+http://codeforces.com/problemset/problem/678/E  
+http://www.spoj.com/problems/SSORT/  
+http://www.spoj.com/problems/INUMBER/  
+https://goo.gl/SVvLEA  
+https://www.hackerrank.com/challenges/2s-complement/problem  
+https://goo.gl/nqXngJ  
+https://www.hackerrank.com/challenges/iterate-it/problem  
+https://www.codechef.com/problems/DGCD  
+http://www.spoj.com/problems/ANARC05H/  
+
