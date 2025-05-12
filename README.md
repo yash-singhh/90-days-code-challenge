@@ -65,59 +65,60 @@ Please note that any misinformation will decrease your score by 100.
 To mark the checkbox, change [ ] to [x].
 Questions
 Easy
- https://goo.gl/Kkf8eD
- https://www.codechef.com/problems/SCC0103
- http://www.spoj.com/problems/GSS1/
- https://www.codechef.com/problems/BITMASK3
- https://goo.gl/PTpmny
- https://www.codechef.com/problems/BITMASK3
- https://www.hackerrank.com/challenges/two-arrays/problem
- http://www.spoj.com/problems/FREQUENT/
- http://www.spoj.com/problems/BUGLIFE/
- https://goo.gl/shR8UK
- http://www.spoj.com/problems/GERGOVIA/
- http://codeforces.com/problemset/problem/793/C
- http://www.spoj.com/problems/COINS/
- https://goo.gl/h7a3mN
- https://goo.gl/MDTg6s
- http://www.spoj.com/problems/TOPOSORT/
- https://www.hackerrank.com/challenges/angry-children/problem
- http://www.spoj.com/problems/QUEEN/
- http://www.spoj.com/problems/HORRIBLE/
- http://www.spoj.com/problems/PAIRS1/
- http://www.spoj.com/problems/JUSTAPAL/
- https://goo.gl/m5DbXZ
- http://www.spoj.com/problems/ELEVTRBL/
- https://www.codechef.com/problems/K1/
- http://www.spoj.com/problems/PT07Y/
- https://goo.gl/JHSdm1
- https://goo.gl/viMSCX
- https://goo.gl/PzwksW
- http://www.spoj.com/problems/BLHETA/
- https://goo.gl/TGfXMv
- https://www.hackerrank.com/challenges/angry-children/problem
- https://www.codechef.com/problems/PANSTACK
- https://goo.gl/1A7rHf
- https://www.hackerrank.com/challenges/flipping-bits/problem
- https://www.codechef.com/problems/CDX1604
- https://goo.gl/u1ZFt7
- http://www.spoj.com/problems/STRMATCH/
- https://goo.gl/NnEu73
- https://www.hackerrank.com/challenges/lonely-integer/problem
- https://www.codechef.com/problems/FIRESC
- http://codeforces.com/problemset/problem/579/A
- https://goo.gl/66cr2p
- https://goo.gl/fvbDS5
- https://www.codechef.com/problems/REL102
- http://www.spoj.com/problems/SUMITR/
- https://goo.gl/S69rSA
- https://goo.gl/xMWucx
- http://www.spoj.com/problems/CRSCNTRY/
- https://goo.gl/uH7FYz
- https://goo.gl/DDzNyE
- https://goo.gl/tSnDU7
- https://www.hackerrank.com/challenges/sum-vs-xor/problem
- http://www.spoj.com/problems/ADAJOBS/
+
+https://goo.gl/Kkf8eD  
+https://www.codechef.com/problems/SCC0103  
+http://www.spoj.com/problems/GSS1/  
+https://www.codechef.com/problems/BITMASK3  
+https://goo.gl/PTpmny  
+https://www.codechef.com/problems/BITMASK3  
+https://www.hackerrank.com/challenges/two-arrays/problem  
+http://www.spoj.com/problems/FREQUENT/  
+http://www.spoj.com/problems/BUGLIFE/  
+https://goo.gl/shR8UK  
+http://www.spoj.com/problems/GERGOVIA/  
+http://codeforces.com/problemset/problem/793/C  
+http://www.spoj.com/problems/COINS/  
+https://goo.gl/h7a3mN  
+https://goo.gl/MDTg6s  
+http://www.spoj.com/problems/TOPOSORT/  
+https://www.hackerrank.com/challenges/angry-children/problem  
+http://www.spoj.com/problems/QUEEN/  
+http://www.spoj.com/problems/HORRIBLE/  
+http://www.spoj.com/problems/PAIRS1/  
+http://www.spoj.com/problems/JUSTAPAL/  
+https://goo.gl/m5DbXZ  
+http://www.spoj.com/problems/ELEVTRBL/  
+https://www.codechef.com/problems/K1/  
+http://www.spoj.com/problems/PT07Y/  
+https://goo.gl/JHSdm1  
+https://goo.gl/viMSCX  
+https://goo.gl/PzwksW  
+http://www.spoj.com/problems/BLHETA/  
+https://goo.gl/TGfXMv  
+https://www.hackerrank.com/challenges/angry-children/problem  
+https://www.codechef.com/problems/PANSTACK  
+https://goo.gl/1A7rHf  
+https://www.hackerrank.com/challenges/flipping-bits/problem  
+https://www.codechef.com/problems/CDX1604  
+https://goo.gl/u1ZFt7  
+http://www.spoj.com/problems/STRMATCH/  
+https://goo.gl/NnEu73  
+https://www.hackerrank.com/challenges/lonely-integer/problem  
+https://www.codechef.com/problems/FIRESC  
+http://codeforces.com/problemset/problem/579/A  
+https://goo.gl/66cr2p  
+https://goo.gl/fvbDS5  
+https://www.codechef.com/problems/REL102  
+http://www.spoj.com/problems/SUMITR/  
+https://goo.gl/S69rSA  
+https://goo.gl/xMWucx  
+http://www.spoj.com/problems/CRSCNTRY/  
+https://goo.gl/uH7FYz  
+https://goo.gl/DDzNyE  
+https://goo.gl/tSnDU7  
+https://www.hackerrank.com/challenges/sum-vs-xor/problem  
+http://www.spoj.com/problems/ADAJOBS/  
 
  
 Medium
